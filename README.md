@@ -23,4 +23,4 @@ No Backend / No JavaScript (UI clone only)
 
 link- https://spotifycloneproject100.netlify.app/
 
-![img alt] (https://github.com/Karanbisht40/Spotify-Clone/blob/main/Screenshot%202026-02-09%20164621.png?raw=true)
+![image alt] (https://github.com/Karanbisht40/Spotify-Clone/blob/main/Screenshot%202026-02-09%20164621.png?raw=true)
